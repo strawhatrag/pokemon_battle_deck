@@ -2,7 +2,7 @@
 
 A Pokemon application (Pokedex) that displays a collection of Pokemon cards with their names, images, types, and base experience points. Users can see different Pokemon and enjoy a randomly changing winner each time they refresh the page.
 
-![Pokedex Screenshot](/images/pokedex.png)
+![Pokedex Screenshot](/images/pokedeck.png)
 
 ## Table of Contents
 
