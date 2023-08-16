@@ -1,4 +1,4 @@
-# React Pokedex App
+# React Pokemon Battle Deck
 
 A Pokemon application (Pokedex) that displays a collection of Pokemon cards with their names, images, types, and base experience points. Users can see different Pokemon and enjoy a randomly changing winner each time they refresh the page.
 
