@@ -3,3 +3,11 @@
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
+
+.Podedex-winner {
+  color: green;
+}
+
+.Podedex-loser {
+  color: red;
+}

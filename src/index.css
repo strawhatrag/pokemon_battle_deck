@@ -1,16 +1,23 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Poppins', Arial, sans-serif;
+  /* Modern font family */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #eceff1;
-  color: #4d4d4d;
+  color: rgb(48, 34, 34);
   text-align: center;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.Pokegame-title {
+  font-size: 52px;
+  font-family: 'Montserrat', sans-serif;
+  /* Another modern font family */
+  background: -webkit-linear-gradient(#000000, #6d6d6d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
